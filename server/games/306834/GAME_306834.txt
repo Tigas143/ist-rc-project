@@ -1,3 +1,0 @@
-306834 P PRGR 40 2025-01-25 15:45:37 40s
-Trial: YYYY nB: 0 nW: 0  4s
-Trial: ROPP nB: 0 nW: 2  9s
